@@ -1,1 +1,16 @@
-
+{
+  "users": [
+    {
+      "id": "b4a449d4-1c9e-4d5a-8168-79a7471e44df",
+      "email": "test1@domain.com",
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": "08504ce7-3853-4cfa-89a5-27f6c5aabef3",
+      "email": "test2@domain.com",
+      "firstName": "Mary",
+      "lastName": "Decker"
+    }
+  ]
+}
